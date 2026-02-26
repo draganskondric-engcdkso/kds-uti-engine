@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18787285.svg)](https://doi.org/10.5281/zenodo.18787285)
 # KDS-UTI Protocol Engine (TypeScript)
 
 A deterministic, offline-friendly TypeScript engine for:
