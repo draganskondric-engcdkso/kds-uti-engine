@@ -1,12 +1,3 @@
-## Support / Donations
-
-Love the project? Help keep it going!
-
-[![Donate PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?logo=paypal&logoColor=white&style=for-the-badge)](https://paypal.me/cdkso)
-
-Direct link: https://paypal.me/cdkso
-
----
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18787285.svg)](https://doi.org/10.5281/zenodo.18787285)
 # KDS-UTI Protocol Engine (TypeScript)
