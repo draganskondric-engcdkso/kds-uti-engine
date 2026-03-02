@@ -261,7 +261,13 @@ You can also include a `CITATION.cff` later if you publish on GitHub.
 - Projection utilities are provided to support KDS-style solar and calendar views, but remain optional.
 
 ---
+## Support / Donations
 
+Love the project? Help keep it going!
+
+[![Donate PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?logo=paypal&logoColor=white&style=for-the-badge)](https://paypal.me/cdkso)
+
+Direct link: https://paypal.me/cdkso
 ## Contact / project context
 
 KDS-UTI Engine is part of the broader KDS Model work:
