@@ -1,18 +1,11 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
-title: "KDS-UTI Protocol Engine: Canonical JSON Hashing and Hash-Chain Verification (TypeScript)"
-type: software
+message: "If you use this software, please cite it using the metadata below."
+title: "KDS-UTI Protocol Engine: Canonical JSON Hashing and Hash-Chain Verification"
 version: "1.0.0"
-date-released: "2026-02-26"
-license: MIT
 authors:
   - family-names: "Škondrić"
     given-names: "Dragan"
-identifiers:
-  - type: doi
-    value: 10.5281/zenodo.18787285
-repository-code: "https://example.invalid/replace-with-your-repo"
-abstract: >
-  Deterministic TypeScript engine for canonical JSON serialization, SHA-256 hashing,
-  and hash-chained tamper-evident event logs, with a strict CANON vs PROJECTION
-  separation and optional offline astronomy/calendar projection utilities.
+    orcid: "https://orcid.org/0009-0000-7454-0761"
+date-released: 2026-02-26
+license: "MIT"
+url: "https://github.com/draganskondric-engcdkso/kds-uti-engine"

@@ -1,0 +1,28 @@
+{
+  "name": "kds-uti-engine",
+  "version": "1.0.0",
+  "description": "KDS-UTI Protocol Engine: Canonical JSON hashing and hash-chain verification (TypeScript)",
+  "type": "module",
+  "main": "dist/kds-uti-engine.js",
+  "types": "dist/kds-uti-engine.d.ts",
+  "scripts": {
+    "build": "tsc && ren \"dist\\kds-uti-engine.v1.0.0.js\" kds-uti-engine.js && ren \"dist\\kds-uti-engine.v1.0.0.d.ts\" kds-uti-engine.d.ts",
+    "test": "node dist/kds-uti-engine.js"
+  },
+  "keywords": [
+    "KDS",
+    "UTI",
+    "canonical JSON",
+    "SHA-256",
+    "hash chain",
+    "deterministic",
+    "TypeScript",
+    "offline",
+    "event ledger"
+  ],
+  "author": "Dragan Škondrić",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
