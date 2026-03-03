@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/draganskondric-engcdkso/kds-uti-engine/releases/tag/v1.0.0)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18787285.svg)](https://doi.org/10.5281/zenodo.18787285)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18787285-blue.svg)](https://doi.org/10.5281/zenodo.18787285)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178c6.svg)](https://www.typescriptlang.org/)
 [![Zero deps](https://img.shields.io/badge/dependencies-zero-brightgreen.svg)](#)
 
